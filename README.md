@@ -1,5 +1,6 @@
 # 💫 About Me:
-🎓 Aspiring Computer Science student at UPECS<br>
+🎓 Aspiring Computer Science student at UPECS (Application Pending)<br>
+🎓 HS Senior at Canaway Private School<br>
 🚀 Dedicated to mastering backend development, with a special focus on architecture<br>
 💡 Currently building a strong foundation in Python, PHP, Java, and Ruby while exploring software design patterns<br>
 🌱 Frontend basics in HTML5, CSS and Javascript, working on a bit of React<br>
