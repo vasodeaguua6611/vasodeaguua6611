@@ -1,6 +1,7 @@
 # 💫 About Me:
 🎓 Aspiring Computer Science student at UPECS (Application Pending)<br>
 🎓 HS Senior at Canaway Private School<br>
+📚 TilinSolutions Member/CoFounder<br>
 🚀 Dedicated to mastering backend development, with a special focus on architecture and API development<br>
 💡 Currently building a strong foundation in Python, C#, PHP, Java, and Ruby while exploring software design patterns<br>
 🌱 Frontend basics in HTML5, CSS and Javascript, working on a bit of React<br>
@@ -46,8 +47,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vasodeaguua6611&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vasodeaguua6611&limit=5&theme=dark&combine_all_yearly_contributions=true)
