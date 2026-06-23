@@ -19,7 +19,7 @@
 
 # 💻 Tech Stack:
 Python • Java • C • Kotlin
-Git • Docker • Linux
+• Git • Docker • Linux
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vasodeaguua6611&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
