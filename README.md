@@ -1,12 +1,11 @@
 # 💫 About Me:
 🎓 Computer Science student at University Of Pécs<br>
 📚 TilinSolutions Member/CoFounder<br>
-🚀 Dedicated to mastering data science and backend development, with a special focus on architecture and API development<br>
-👯 Actively seeking opportunities to contribute to open-source projects and collaborate with other developers<br>
-⚡ Fun facts: Cat owner! Taekwondo Black Belt, BJJ, Luta Livre practicioner and active Kickboxer<br>
+📚 Dedicated to mastering data science and backend development, with a special focus on architecture and API development<br>
+📚 Fun facts: Cat owner! Taekwondo Black Belt, BJJ, Luta Livre practicioner and active Kickboxer<br>
 
 ## 🎯 Current Focus:
-- Uploading my first repos and projects
+- Building personal projects
 - Learning software development practices and clean code principles
 - Contributing to open-source projects to gain real-world experience
 - Exploring cloud technologies and containerization
@@ -35,6 +34,5 @@ Git • Docker • Linux
 ---
 [![](https://visitcount.itsvg.in/api?id=vasodeaguua6611&icon=2&color=0)](https://visitcount.itsvg.in)
 
-## ""The two sisters would spin in circles for hours, because having fun is part of life."
+## "The two sisters would spin in circles for hours, because having fun is part of life."
 ---
-💡 **Always open to new opportunities and connections in the tech community!**
