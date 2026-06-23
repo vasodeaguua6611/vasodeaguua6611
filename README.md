@@ -28,7 +28,7 @@
 
 # 🎓 Education & Learning Path:
 - **Peruvian Highschool Diploma - Year 11** - Innova Schools
-- **Canadian Highschool Diploma - Year 12** - Canaway Private School 
+- **Ontario Secondary School Diploma - Year 12** - Canaway High School 
 - **Computer Science BSc (IN PROGRESS)** - ***First Year Student - University of Pécs*** 
 
 
